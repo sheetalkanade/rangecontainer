@@ -1,7 +1,4 @@
-Workday OMS Programming Test
-------------------------------
-
-This is a Java - Maven based project developed using Eclipse IDE. You may import it to your IDE as a maven project and run JUnit test cases.
+This is a Test Java - Maven based project developed using Eclipse IDE. You may import it to your IDE as a maven project and run JUnit test cases.
 
 Environment details: 
 JDK 1.8 
